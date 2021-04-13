@@ -1,0 +1,9 @@
+C:\Users\yusuf\source\repos\YusufTaner2021\Helper\bin\Debug\netcoreapp3.1\Helper.deps.json
+C:\Users\yusuf\source\repos\YusufTaner2021\Helper\bin\Debug\netcoreapp3.1\Helper.dll
+C:\Users\yusuf\source\repos\YusufTaner2021\Helper\bin\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\yusuf\source\repos\YusufTaner2021\Helper\obj\Debug\netcoreapp3.1\Helper.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\YusufTaner2021\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\YusufTaner2021\Helper\obj\Debug\netcoreapp3.1\Helper.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\YusufTaner2021\Helper\obj\Debug\netcoreapp3.1\Helper.dll
+C:\Users\yusuf\source\repos\YusufTaner2021\Helper\obj\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\yusuf\source\repos\YusufTaner2021\Helper\obj\Debug\netcoreapp3.1\Helper.csproj.CoreCompileInputs.cache

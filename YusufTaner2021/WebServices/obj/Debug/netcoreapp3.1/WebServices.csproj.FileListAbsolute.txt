@@ -1,0 +1,9 @@
+C:\Users\yusuf\source\repos\YusufTaner2021\WebServices\bin\Debug\netcoreapp3.1\WebServices.deps.json
+C:\Users\yusuf\source\repos\YusufTaner2021\WebServices\bin\Debug\netcoreapp3.1\WebServices.dll
+C:\Users\yusuf\source\repos\YusufTaner2021\WebServices\bin\Debug\netcoreapp3.1\WebServices.pdb
+C:\Users\yusuf\source\repos\YusufTaner2021\WebServices\obj\Debug\netcoreapp3.1\WebServices.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\YusufTaner2021\WebServices\obj\Debug\netcoreapp3.1\WebServices.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\YusufTaner2021\WebServices\obj\Debug\netcoreapp3.1\WebServices.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\YusufTaner2021\WebServices\obj\Debug\netcoreapp3.1\WebServices.dll
+C:\Users\yusuf\source\repos\YusufTaner2021\WebServices\obj\Debug\netcoreapp3.1\WebServices.pdb
+C:\Users\yusuf\source\repos\YusufTaner2021\WebServices\obj\Debug\netcoreapp3.1\WebServices.csproj.CoreCompileInputs.cache

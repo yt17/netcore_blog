@@ -1,0 +1,17 @@
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\bin\Debug\netcoreapp3.1\Entity.dll
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\bin\Debug\netcoreapp3.1\Entity.pdb
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\YusufTaner2021\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
